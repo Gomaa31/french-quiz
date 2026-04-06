@@ -1,6 +1,6 @@
 # French Picture-Book Quiz
 
-A French vocabulary quiz app built with **React + TypeScript + Vite** using content from **Apprendre le français en image** by **Mme Sabria**.
+A French vocabulary quiz app built with **React + TypeScript + Vite**.
 
 This app lets you study the booklet page by page, filter by category, search the vocabulary, and quiz yourself with French text-to-speech.
 
