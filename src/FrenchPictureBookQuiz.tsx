@@ -340,7 +340,7 @@ export default function FrenchPictureBookQuiz() {
                 Full PDF quiz with voice
               </h1>
               <p className="mt-3 max-w-3xl text-base leading-7 text-slate-600 md:text-lg">
-                I expanded the quiz to cover the full booklet content page by page, including vocabulary,
+                The quiz covers the full booklet content page by page, including vocabulary,
                 sentence patterns, and example phrases. You can now study by page, by category, or quiz
                 the whole set with French text-to-speech.
               </p>
